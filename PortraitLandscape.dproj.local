@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/13 09:15:14.000.098,=C:\Users\jluna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/13 10:02:42.000.004,=C:\Users\jluna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 08:23:50.000.281,=C:\Users\jluna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 08:25:56.000.135,C:\Users\jluna\OneDrive\Desktop\W\8-AS\PROGRAMACIÓN_MOVIL\T3.1 Portrait &amp; Landscape\uMain.fmx=C:\Users\jluna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/03/29 08:25:56.000.135,C:\Users\jluna\OneDrive\Desktop\W\8-AS\PROGRAMACIÓN_MOVIL\T3.1 Portrait &amp; Landscape\uMain.pas=C:\Users\jluna\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 08:26:09.000.584,C:\Users\jluna\OneDrive\Desktop\W\8-AS\PROGRAMACIÓN_MOVIL\T3.1 Portrait &amp; Landscape\PortraitLandscape.dproj=C:\Users\jluna\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="X9F4C20114009698" Android64="X9F4C20114009698"/>
+	</ActiveMobileDevice>
+</BorlandProject>
